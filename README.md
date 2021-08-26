@@ -13,7 +13,7 @@
 ### String Session
 No Requirement of API ID and API HASH
 
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/MrRizoel/RiZoeLSpamBot)](https://replit.com/@RiZoeL/RiZoeL-Spam-bot)
+   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/MrRizoel/RiZoeLSpamBot)](https://replit.com/@hyperop6666/HYPER-REPL)
 
 # You can Use these API ID and API HASH
 ```
