@@ -19,5 +19,6 @@ No Requirement of API ID and API HASH
 • API ID = 4014305
 • API HASH = b0cb9e17b2b8bcde3be7161c8bfa6013
 ```
+# 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 - JOIN [SUPPORT CHAT](https://t.me/HYPERS_CHAT_ROOM) FOR ASSISTANCE
 # 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 -
 [![telegram badge](https://img.shields.io/badge/YUKKI-30302f?style=for-the-badge&logo=telegram)](https://t.me/OfficialYukki)
