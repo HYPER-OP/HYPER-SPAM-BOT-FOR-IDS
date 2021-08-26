@@ -9,7 +9,7 @@
 # ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ 
 # Deploy Up to 25 Bots in One time 🔥
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-OP/HYPER_MULTI_SPAM_BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-OP/HYPER_MULTI_SPAM-BOT)
 ### String Session
 No Requirement of API ID and API HASH
 
