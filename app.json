@@ -15,7 +15,7 @@
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "1896911154 1259883302",
+        "value": "1896911154 1259883302 1384994305",
         "required": true
       },
       "STRING": {
