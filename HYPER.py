@@ -112,8 +112,8 @@ async def start_hyper():
             print("Booting Up The Client 1")
             await idk.start()
             botme = await idk.get_me()
-            await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await idk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await idk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await idk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -136,8 +136,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 2")
             await ydk.start()
-            await ydk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await ydk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -161,8 +161,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 3")
             await  wdk.start()
-            await wdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -186,8 +186,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 4")
             await hdk.start()
-            await hdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await hdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -211,8 +211,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 5")
             await sdk.start()
-            await sdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await sdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -236,8 +236,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 6")
             await adk.start()
-            await adk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await adk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await adk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await adk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await adk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -261,8 +261,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 7")
             await bdk.start()
-            await bdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await bdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -287,8 +287,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 8")
             await cdk.start()
-            await cdk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await cdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -312,8 +312,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 9")
             await ddk.start()
-            await ddk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await ddk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -338,8 +338,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 10")
             await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await edk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await edk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await edk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -364,8 +364,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 11")
             await vkk.start()
-            await vkk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await vkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -390,8 +390,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 12")
             await kkk.start()
-            await kkk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await kkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -416,8 +416,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 13")
             await lkk.start()
-            await lkk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await lkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -442,8 +442,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 14")
             await mkk.start()
-            await mkk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await mkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -468,8 +468,8 @@ async def start_hyper():
         try:
             print("Booting Up The Client 15")
             await sid.start()
-            await sid(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await sid(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await sid(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await sid(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botme = await sid.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -495,8 +495,8 @@ async def start_hyper():
             print("Booting Up The Client 16")
             await shy.start()
             botme = await shy.get_me()
-            await shy(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await shy(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await shy(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await shy(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -519,8 +519,8 @@ async def start_hyper():
             print("Booting Up The Client 17")
             await aan.start()
             botme = await aan.get_me()
-            await aan(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await aan(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await aan(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await aan(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -543,8 +543,8 @@ async def start_hyper():
             print("Booting Up The Client 18")
             await ake.start()
             botme = await ake.get_me()
-            await ake(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await ake(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await ake(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await ake(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -567,8 +567,8 @@ async def start_hyper():
             print("Booting Up The Client 19")
             await eel.start()
             botme = await eel.get_me()
-            await eel(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await eel(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await eel(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await eel(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -591,8 +591,8 @@ async def start_hyper():
             print("Booting Up The Client 20")
             await khu.start()
             botme = await khu.get_me()
-            await khu(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await khu(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await khu(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await khu(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -615,8 +615,8 @@ async def start_hyper():
             print("Booting Up The Client 21")
             await shi.start()
             botme = await shi.get_me()
-            await shi(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await shi(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await shi(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await shi(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -639,8 +639,8 @@ async def start_hyper():
             print("Booting Up The Client 22")
             await yaa.start()
             botme = await yaa.get_me()
-            await yaa(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -663,8 +663,8 @@ async def start_hyper():
             print("Booting Up The Client 23")
             await dav.start()
             botme = await dav.get_me()
-            await dav(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await dav(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await dav(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await dav(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -687,8 +687,8 @@ async def start_hyper():
             print("Booting Up The Client 24")
             await raj.start()
             botme = await raj.get_me()
-            await raj(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await raj(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await raj(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await raj(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -711,8 +711,8 @@ async def start_hyper():
             print("Booting Up The Client 1")
             await put.start()
             botme = await put.get_me()
-            await put(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await put(functions.channels.JoinChannelRequest(channel="@HYPERS_CHAT_ROOM"))
+            await put(functions.channels.JoinChannelRequest(channel="@AB0UT_HYPER"))
+            await put(functions.channels.JoinChannelRequest(channel="@HYPERxCHATROOM"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -1520,7 +1520,7 @@ async def restart(e):
 @put.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 async def alive(e):
     if e.sender_id in SMEX_USERS:
-        text = " ♡︎ 𝙷𝚈𝙿𝙴𝚁 𝐌ᴜʟᴛ𝐈 𝐒ᴘᴀ𝐌 𝐁ᴏ𝐓 ♡︎\n\n\n 𝙷𝚈𝙿𝙴𝚁 𝐒ᴘᴀᴍ ɪs 𝐀ʟɪᴠᴇ !!\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.23.0 \n ┣➣ sᴜᴘᴘᴏʀᴛ : @HYPERS_CHAT_ROOM\n ┣➣ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : 𝐇𝚈𝙿𝙴𝚁\n ┗━━━━━━━━━━━━━━━━━━━\n "
+        text = " ♡︎ 𝙷𝚈𝙿𝙴𝚁 𝐌ᴜʟᴛ𝐈 𝐒ᴘᴀ𝐌 𝐁ᴏ𝐓 ♡︎\n\n\n 𝙷𝚈𝙿𝙴𝚁 𝐒ᴘᴀᴍ ɪs 𝐀ʟɪᴠᴇ !!\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.23.0 \n ┣➣ sᴜᴘᴘᴏʀᴛ : @HYPERxCHATROOM\n ┣➣ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : 𝐇𝚈𝙿𝙴𝚁\n ┗━━━━━━━━━━━━━━━━━━━\n "
         await e.reply(text, parse_mode=None, link_preview=None )
 
                         
